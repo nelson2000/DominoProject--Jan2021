@@ -1,1 +1,1 @@
-# DominoProject--Jan2021
+# This is a Joint web application project done on AWS Cloud with Java Language
